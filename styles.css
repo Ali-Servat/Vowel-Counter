@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+h1 {
+  margin: 10px auto;
+  width: fit-content;
+}
+input {
+  display: block;
+  margin: 20px auto;
+  width: 600px;
+  height: 30px;
+  padding: 10px;
+}
+button {
+  display: block;
+  padding: 5px;
+  width: fit-content;
+  margin: 20px auto;
+}
